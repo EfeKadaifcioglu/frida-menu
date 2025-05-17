@@ -1,0 +1,15 @@
+body {
+  font-family: 'Georgia', serif;
+  background-color: #fffaf5;
+  text-align: center;
+  padding: 20px;
+}
+h1 {
+  color: #7c3aed;
+}
+img {
+  max-width: 90%%;
+  margin: 20px 0;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+}
